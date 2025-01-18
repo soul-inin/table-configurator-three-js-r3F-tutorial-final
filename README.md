@@ -14,3 +14,4 @@ The starter pack is available [here](https://github.com/wass08/table-configurato
 yarn
 yarn dev
 ```
+https://www.youtube.com/watch?v=wW0XwNhrDFQ
